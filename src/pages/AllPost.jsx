@@ -16,12 +16,14 @@ import { Container,PostCard } from '../components';
 
 function AllPost() {
     const [posts, setPosts] = useState([])
-    useEffect(() => {}, [])
-    appwriteservice.getPosts([]).then((posts) => {
+    useEffect(() => {
+appwriteservice.getPosts([]).then((posts) => {
         if (posts) {
             setPosts(posts.documents)
         }
     })
+    }, [])
+    
 
 
 
