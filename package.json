@@ -13,7 +13,6 @@
     "@ckeditor/ckeditor5-react": "^11.0.0",
     "@reduxjs/toolkit": "^2.8.2",
     "@tailwindcss/vite": "^4.1.11",
-    "@tinymce/tinymce-react": "^6.2.1",
     "appwrite": "^18.2.0",
     "ckeditor5": "^46.0.1",
     "html-react-parser": "^5.2.6",
@@ -22,8 +21,7 @@
     "react-hook-form": "^7.61.1",
     "react-redux": "^9.2.0",
     "react-router-dom": "^7.7.1",
-    "tailwindcss": "^4.1.11",
-    "tinymce": "^7.9.1"
+    "tailwindcss": "^4.1.11"
   },
   "devDependencies": {
     "@eslint/js": "^9.30.1",
