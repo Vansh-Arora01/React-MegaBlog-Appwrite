@@ -5,7 +5,7 @@ import React from 'react';
  function Button({
     children, 
     type="button",
-    bgColor = "bg-blue-400",
+    bgColor = "bg-blue-800",
     textColor ="text-white",
     className ="",
     ...props
