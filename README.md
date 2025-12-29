@@ -19,15 +19,14 @@ The primary focus of this project is on **robust architecture and functionality*
 
 ## 📸 Screenshots
 
-*(This section is crucial! Even if simple, show the functionality.)*
-
-| Homepage | Homepage - Success-Login | Post Editor (CKEditor) |
+| Homepage | Login Page | Sign-In Page |
 | :---: | :---: |:---: |
-| ![Homepage](image/home.png) |  ![Home-(SuccessLogin)](image/homeafterlogin.png) | ![Post Editor](image/ckeditor.png) |
+| ![Homepage](image/home.png) |   ![Login Page](image/login.png) | ![Sign-In](image/signin.png) |
 
-| Login Page | Sign-In Page | MY Post Page |
+
+| Homepage - Success-Login |  Post Editor (CKEditor)  | MY Post Page |
 | :---: | :---: | :---: |
-| ![Login Page](image/login.png) | ![Sign-In](image/signin.png) | ![](image/Mypost.png) |
+| ![Home-(SuccessLogin)](image/homeafterlogin.png) | ![Post Editor](image/ckeditor.png) | ![My-Post](image/Mypost.png) |
 
 ---
 
