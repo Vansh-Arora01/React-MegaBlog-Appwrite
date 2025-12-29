@@ -10,6 +10,7 @@ function LogoutButton(){
     const  logoutHandler =()=>{
         authservice.logout().then(()=>{
             dispatch(logout())
+            navigate("/login"); 
         })
     }
     return(
